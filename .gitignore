@@ -9,6 +9,5 @@ swipelistview/build/
 gradle/
 gradle.properties
 gradlew.bat
-settings.gradle
 .idea/
 *.iml
